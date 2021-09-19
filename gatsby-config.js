@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `n_t_sh notes`,
+    title: `n-t-sh notes`,
   },
 }
