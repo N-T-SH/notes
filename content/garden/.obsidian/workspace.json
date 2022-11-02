@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "b6db2cbcb30cb774",
+    "type": "split",
+    "children": [
+      {
+        "id": "035d8df17d99fb36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3567bf65c531ea37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appendix/Website Update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765ac48b2988f7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "135f7b5c200b590d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b795cd863e34f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aa1ae6b19b1a76d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "371f0528973d11bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9034c63217b87b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fe30a02c5f9a7b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Appendix/Website Update.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3567bf65c531ea37",
+  "lastOpenFiles": [
+    "Writing Process.md",
+    "Adversarial Attacks.md",
+    "LIDAR.md",
+    "Appendix/Website Build Panel.md",
+    "Appendix/Website Update.md",
+    "The Creativity Code.md",
+    "Rule vs. Law.md",
+    "Be happy or become happy.md",
+    "hello.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "cross-reference-navigation:show-refnav-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ]
+}
